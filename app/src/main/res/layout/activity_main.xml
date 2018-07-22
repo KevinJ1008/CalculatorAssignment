@@ -300,7 +300,6 @@
             android:background="#9e9e9e"
             android:gravity="bottom|end"
             android:maxLength="20"
-            android:text="="
             android:textSize="56sp"
             app:layout_constraintBottom_toTopOf="@+id/buttonReset"
             app:layout_constraintEnd_toEndOf="parent"
